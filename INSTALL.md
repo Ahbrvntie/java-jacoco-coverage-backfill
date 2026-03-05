@@ -15,7 +15,7 @@ If `CODEX_HOME` is not set, Codex commonly uses:
 Clone directly:
 
 ```bash
-git clone <REPO_URL>
+git clone https://github.com/changheng10000/java-jacoco-coverage-backfill.git
 mkdir -p "$CODEX_HOME/skills"
 cp -R java-jacoco-coverage-backfill "$CODEX_HOME/skills/"
 ```
